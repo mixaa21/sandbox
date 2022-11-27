@@ -2,4 +2,4 @@
 const args_count = (...args) => args.length
 
 
-args_count(1,2,3,4)
+console.log(args_count(1, 2, 3, 4));
